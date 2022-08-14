@@ -9,3 +9,6 @@ Rerqquirements to run this project on your system:
 
 Navigate to the project directory and run
 `python manage.py runserver`
+
+## Video Demo
+https://youtu.be/g3h1OC3S5Lo
