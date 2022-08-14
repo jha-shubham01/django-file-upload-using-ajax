@@ -12,3 +12,7 @@ Navigate to the project directory and run
 
 ## Video Demo
 https://youtu.be/g3h1OC3S5Lo
+
+Using DRF: <br />
+Part 1: https://youtu.be/GBjuMxg_2jU <br />
+Part 2: https://youtu.be/yOfBcXbxUyE
